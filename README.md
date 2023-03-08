@@ -1,7 +1,3 @@
-🪧 Demo :-  https://akshaymealapp.netlify.app
-🪧 Demo :-  https://akshay0326.github.io/Meal-App-Find-Your-Meal/
-
----
 About the Project :-
 
 🔴 This is a single page website where you can seach about any meal.
@@ -11,15 +7,6 @@ About the Project :-
 🔴 The most important thing about this project it is fully responsive of nature and use an api called the themealdb to fetch all the dishes.
 
 🔴 It also redirects users to a youtube videos for the recipe of dishes.
-
-
----
-
-📐 Installation :-
-
-Nothing crazy just download the zip and run LIVE_SERVER.
-
----
 
 🪛 Built With :-
 
@@ -49,20 +36,5 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 🔴 Recipe Instruction Page :-
 
 ![InstructionPage](https://user-images.githubusercontent.com/86068467/213669374-3983f32b-278b-478a-a150-905ee9e66ce9.png)
-
----
-
-🚦Versions:-
-
-    1.0.0
-
----
-
-🙎 Contact .
-
-    🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
-
-    ✅ Linkedin ✅ https://www.linkedin.com/in/itsakshaykrs/ ✅
-    ✅ Github   ✅ https://github.com/Akshay0326             ✅
 
 ---
